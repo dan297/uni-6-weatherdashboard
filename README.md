@@ -14,9 +14,13 @@ Use the [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) 
 ## Technologies used
 
 BootStrap
+
 CSS
+
 HTML
+
 JavaScript
+
 Google fonts
 
 
