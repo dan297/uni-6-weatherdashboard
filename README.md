@@ -4,6 +4,10 @@ Third-party APIs allow developers to access their data and functionality by maki
 
 Use the [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) to retrieve weather data for cities. Read through the documentation for setup and usage instructions. You will use `localStorage` to store any persistent data. For more information on how to work with the OpenWeather API, refer to the [Full-Stack Blog on how to use API keys](https://coding-boot-camp.github.io/full-stack/apis/how-to-use-api-keys).
 
+### What this project does
+
+This mobile responsive project allows users retrive data from a weather API and for it to be displayed on the page.After searching for a particular city on the search bar a 5 day forcast including tempreture and weather conditions will be displayed.
+
 ### Screenshot of webpage
 <img width="1191" alt="Screenshot 2021-08-02 at 23 46 40" src="https://user-images.githubusercontent.com/71897967/127933126-20c45388-6b20-4961-b365-c61c662f9a43.png">
 <img width="1191" alt="weatherdashboard" src="https://user-images.githubusercontent.com/71897967/125303256-96026800-e324-11eb-85c1-509a7ab6acba.png">
@@ -37,6 +41,7 @@ SO THAT I can plan a trip accordingly
 ## Acceptance Criteria
 
 ```
+
 GIVEN a weather dashboard with form inputs
 WHEN I search for a city
 THEN I am presented with current and future conditions for that city and that city is added to the search history
@@ -48,6 +53,13 @@ WHEN I view future weather conditions for that city
 THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
+
+````
+
+## Contact information
+
+Email : danielwhite98@icloud.com
+
 
 
 
