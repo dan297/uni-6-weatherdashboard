@@ -59,12 +59,6 @@ THEN I am again presented with current and future conditions for that city
 ## Contact information
 
 Email : danielwhite98@icloud.com
-
-
-
-
-
-
-k
+LinkedIN : https://www.linkedin.com/in/daniel-white-8148b9159/
 
 
