@@ -11,6 +11,14 @@ Use the [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) 
 
 ## Link to GITHUB : https://github.com/dan297/uni-6-weatherdashboard
 
+## Technologies used
+
+BootStrap
+CSS
+HTML
+JavaScript
+Google fonts
+
 
 ## User Story
 
@@ -35,13 +43,8 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
-## Technologies used
 
-BootStrap
-CSS
-HTML
-JavaScript
-Google fonts
+
 
 
 
