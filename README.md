@@ -4,7 +4,7 @@ Third-party APIs allow developers to access their data and functionality by maki
 
 Use the [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) to retrieve weather data for cities. Read through the documentation for setup and usage instructions. You will use `localStorage` to store any persistent data. For more information on how to work with the OpenWeather API, refer to the [Full-Stack Blog on how to use API keys](https://coding-boot-camp.github.io/full-stack/apis/how-to-use-api-keys).
 
-### Screenshot of webpag
+### Screenshot of webpage
 <img width="1191" alt="weatherdashboard" src="https://user-images.githubusercontent.com/71897967/125303256-96026800-e324-11eb-85c1-509a7ab6acba.png">
 
 ## Link to Live URL :  https://dan297.github.io/uni-6-weatherdashboard/html.html
