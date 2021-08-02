@@ -6,6 +6,8 @@ Use the [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) 
 
 ### Screenshot of webpage
 <img width="1191" alt="weatherdashboard" src="https://user-images.githubusercontent.com/71897967/125303256-96026800-e324-11eb-85c1-509a7ab6acba.png">
+<img width="920" alt="Screenshot 2021-08-02 at 23 46 40" src="https://user-images.githubusercontent.com/71897967/127933126-20c45388-6b20-4961-b365-c61c662f9a43.png">
+
 
 ## Link to Live URL :  https://dan297.github.io/uni-6-weatherdashboard/html.html
 
