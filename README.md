@@ -6,7 +6,7 @@ Use the [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) 
 
 ### What this project does
 
-This mobile responsive project allows users retrive data from a weather API and for it to be displayed on the page.After searching for a particular city on the search bar a 5 day forcast including tempreture and weather conditions will be displayed.
+This mobile responsive project allows users retrive data from a weather API and for it to be bbdisplayed on the page.After searching for a particular city on the search bar a 5 day forcast including tempreture and weather conditions will be displayed.
 
 ### Screenshot of webpage
 <img width="1191" alt="Screenshot 2021-08-02 at 23 46 40" src="https://user-images.githubusercontent.com/71897967/127933126-20c45388-6b20-4961-b365-c61c662f9a43.png">
